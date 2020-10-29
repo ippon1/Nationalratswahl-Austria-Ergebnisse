@@ -1,4 +1,4 @@
-# Nationalratswahl-Austria-Ergebnisse
+# Nationalratswahl Austria Ergebnisse
 Ergebnisse der Nationalratswahl Österreich aufbereitetet für die Weiterverarbeitung. Da die Orgnaldaten leider nicht sehr einheitlich sind.
 
 ## Quellen
