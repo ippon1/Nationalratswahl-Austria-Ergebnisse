@@ -1,5 +1,5 @@
 # Nationalratswahl Austria Ergebnisse
-Ergebnisse der Nationalratswahl Österreich aufbereitetet für die Weiterverarbeitung im [tab-separated values (TSV)](https://en.wikipedia.org/wiki/Tab-separated_values) Format. Da die Orgnaldaten leider nicht sehr einheitlich sind. Code für den Download der Orginaldaten und des Verarbeitung liegt bei.
+Ergebnisse der Nationalratswahl Österreich aufbereitetet für die Weiterverarbeitung im [tab-separated values (TSV)](https://en.wikipedia.org/wiki/Tab-separated_values) Format. Da die Orgnaldaten leider nicht sehr einheitlich sind. Code für den Download der Orginaldaten und deren Verarbeitung liegt bei.
 
 ## Quellen
 * [Tirol 1994-2019](https://www.data.gv.at/katalog/dataset/f3a1c18ea3a038fa13e7b3c89454ed280d16ef0c)
